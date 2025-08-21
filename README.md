@@ -3,6 +3,7 @@
 🩸 Blood Donation Management System
 
 📌 Overview
+
 The Blood Donation Management System is a database project designed to efficiently manage blood donation activities. It helps track donors, donations, hospitals, blood inventory, and hospital requests. This system ensures proper monitoring of available blood units, donor details, and hospital requirements, which can be vital during emergencies.
 This project is built using MySQL and contains SQL scripts for creating tables, inserting sample data, and performing queries to generate useful insights.
 
